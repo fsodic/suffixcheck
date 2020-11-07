@@ -1,0 +1,3464 @@
+cc.ua
+		Oke: https://github.com/publicsuffix/list/pull/353
+inf.ua
+		Oke: https://github.com/publicsuffix/list/pull/353
+ltd.ua
+		Oke: https://github.com/publicsuffix/list/pull/353
+611.to
+		Oke: https://github.com/publicsuffix/list/pull/1037
+adobeaemcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/931
+adobeaemcloud.net
+		Oke: https://github.com/publicsuffix/list/pull/931
+dev.adobeaemcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/931
+beep.pl
+		Oke: https://github.com/publicsuffix/list/pull/254
+barsy.ca
+		Oke: https://github.com/publicsuffix/list/pull/732
+compute.estate
+		Oke: https://github.com/publicsuffix/list/pull/90
+alces.network
+		==Fail==
+kasserver.com
+		Oke: https://github.com/publicsuffix/list/pull/1016
+altervista.org
+		Oke: https://github.com/publicsuffix/list/pull/883
+alwaysdata.net
+		Oke: https://github.com/publicsuffix/list/pull/555
+cloudfront.net
+		==Fail==
+compute.amazonaws.com
+		==Fail==
+compute-1.amazonaws.com
+		==Fail==
+compute.amazonaws.com.cn
+		==Fail==
+us-east-1.amazonaws.com
+		==Fail==
+cn-north-1.eb.amazonaws.com.cn
+		==Fail==
+cn-northwest-1.eb.amazonaws.com.cn
+		==Fail==
+elasticbeanstalk.com
+		==Fail==
+ap-northeast-1.elasticbeanstalk.com
+		==Fail==
+ap-northeast-2.elasticbeanstalk.com
+		==Fail==
+ap-northeast-3.elasticbeanstalk.com
+		Oke: https://github.com/publicsuffix/list/pull/628
+ap-south-1.elasticbeanstalk.com
+		==Fail==
+ap-southeast-1.elasticbeanstalk.com
+		==Fail==
+ap-southeast-2.elasticbeanstalk.com
+		==Fail==
+ca-central-1.elasticbeanstalk.com
+		==Fail==
+eu-central-1.elasticbeanstalk.com
+		==Fail==
+eu-west-1.elasticbeanstalk.com
+		==Fail==
+eu-west-2.elasticbeanstalk.com
+		==Fail==
+eu-west-3.elasticbeanstalk.com
+		==Fail==
+sa-east-1.elasticbeanstalk.com
+		==Fail==
+us-east-1.elasticbeanstalk.com
+		==Fail==
+us-east-2.elasticbeanstalk.com
+		==Fail==
+us-gov-west-1.elasticbeanstalk.com
+		==Fail==
+us-west-1.elasticbeanstalk.com
+		==Fail==
+us-west-2.elasticbeanstalk.com
+		==Fail==
+elb.amazonaws.com
+		==Fail==
+elb.amazonaws.com.cn
+		==Fail==
+s3.amazonaws.com
+		==Fail==
+s3-ap-northeast-1.amazonaws.com
+		==Fail==
+s3-ap-northeast-2.amazonaws.com
+		==Fail==
+s3-ap-south-1.amazonaws.com
+		==Fail==
+s3-ap-southeast-1.amazonaws.com
+		==Fail==
+s3-ap-southeast-2.amazonaws.com
+		==Fail==
+s3-ca-central-1.amazonaws.com
+		==Fail==
+s3-eu-central-1.amazonaws.com
+		==Fail==
+s3-eu-west-1.amazonaws.com
+		==Fail==
+s3-eu-west-2.amazonaws.com
+		==Fail==
+s3-eu-west-3.amazonaws.com
+		==Fail==
+s3-external-1.amazonaws.com
+		==Fail==
+s3-fips-us-gov-west-1.amazonaws.com
+		==Fail==
+s3-sa-east-1.amazonaws.com
+		==Fail==
+s3-us-gov-west-1.amazonaws.com
+		==Fail==
+s3-us-east-2.amazonaws.com
+		==Fail==
+s3-us-west-1.amazonaws.com
+		==Fail==
+s3-us-west-2.amazonaws.com
+		==Fail==
+s3.ap-northeast-2.amazonaws.com
+		==Fail==
+s3.ap-south-1.amazonaws.com
+		==Fail==
+s3.cn-north-1.amazonaws.com.cn
+		==Fail==
+s3.ca-central-1.amazonaws.com
+		==Fail==
+s3.eu-central-1.amazonaws.com
+		==Fail==
+s3.eu-west-2.amazonaws.com
+		==Fail==
+s3.eu-west-3.amazonaws.com
+		==Fail==
+s3.us-east-2.amazonaws.com
+		==Fail==
+s3.dualstack.ap-northeast-1.amazonaws.com
+		==Fail==
+s3.dualstack.ap-northeast-2.amazonaws.com
+		==Fail==
+s3.dualstack.ap-south-1.amazonaws.com
+		==Fail==
+s3.dualstack.ap-southeast-1.amazonaws.com
+		==Fail==
+s3.dualstack.ap-southeast-2.amazonaws.com
+		==Fail==
+s3.dualstack.ca-central-1.amazonaws.com
+		==Fail==
+s3.dualstack.eu-central-1.amazonaws.com
+		==Fail==
+s3.dualstack.eu-west-1.amazonaws.com
+		==Fail==
+s3.dualstack.eu-west-2.amazonaws.com
+		==Fail==
+s3.dualstack.eu-west-3.amazonaws.com
+		==Fail==
+s3.dualstack.sa-east-1.amazonaws.com
+		==Fail==
+s3.dualstack.us-east-1.amazonaws.com
+		==Fail==
+s3.dualstack.us-east-2.amazonaws.com
+		==Fail==
+s3-website-us-east-1.amazonaws.com
+		==Fail==
+s3-website-us-west-1.amazonaws.com
+		==Fail==
+s3-website-us-west-2.amazonaws.com
+		==Fail==
+s3-website-ap-northeast-1.amazonaws.com
+		==Fail==
+s3-website-ap-southeast-1.amazonaws.com
+		==Fail==
+s3-website-ap-southeast-2.amazonaws.com
+		==Fail==
+s3-website-eu-west-1.amazonaws.com
+		==Fail==
+s3-website-sa-east-1.amazonaws.com
+		==Fail==
+s3-website.ap-northeast-2.amazonaws.com
+		==Fail==
+s3-website.ap-south-1.amazonaws.com
+		==Fail==
+s3-website.ca-central-1.amazonaws.com
+		==Fail==
+s3-website.eu-central-1.amazonaws.com
+		==Fail==
+s3-website.eu-west-2.amazonaws.com
+		==Fail==
+s3-website.eu-west-3.amazonaws.com
+		==Fail==
+s3-website.us-east-2.amazonaws.com
+		==Fail==
+amsw.nl
+		Oke: https://github.com/publicsuffix/list/pull/929
+t3l3p0rt.net
+		==Fail==
+tele.amune.org
+		==Fail==
+apigee.io
+		Oke: https://github.com/publicsuffix/list/pull/712
+on-aptible.com
+		Oke: https://github.com/publicsuffix/list/pull/116
+user.aseinet.ne.jp
+		Oke: https://github.com/publicsuffix/list/pull/844
+gv.vc
+		Oke: https://github.com/publicsuffix/list/pull/844
+d.gv.vc
+		Oke: https://github.com/publicsuffix/list/pull/844
+user.party.eus
+		==Fail==
+pimienta.org
+		Oke: https://github.com/publicsuffix/list/pull/190
+poivron.org
+		Oke: https://github.com/publicsuffix/list/pull/190
+potager.org
+		Oke: https://github.com/publicsuffix/list/pull/190
+sweetpepper.org
+		Oke: https://github.com/publicsuffix/list/pull/190
+myasustor.com
+		==Fail==
+myfritz.net
+		==Fail==
+awdev.ca
+		Oke: https://github.com/publicsuffix/list/pull/413
+advisor.ws
+		Oke: https://github.com/publicsuffix/list/pull/413
+b-data.io
+		Oke: https://github.com/publicsuffix/list/pull/759
+backplaneapp.io
+		==Fail==
+balena-devices.com
+		Oke: https://github.com/publicsuffix/list/pull/814
+banzai.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1025
+app.banzaicloud.io
+		Oke: https://github.com/publicsuffix/list/pull/730
+backyards.banzaicloud.io
+		Oke: https://github.com/publicsuffix/list/pull/1025
+betainabox.com
+		==Fail==
+bnr.la
+		Oke: https://github.com/publicsuffix/list/pull/283
+blackbaudcdn.net
+		Oke: https://github.com/publicsuffix/list/pull/558
+boomla.net
+		Oke: https://github.com/publicsuffix/list/pull/476
+boxfuse.io
+		Oke: https://github.com/publicsuffix/list/pull/191
+square7.ch
+		Oke: https://github.com/publicsuffix/list/pull/433
+bplaced.com
+		Oke: https://github.com/publicsuffix/list/pull/433
+bplaced.de
+		Oke: https://github.com/publicsuffix/list/pull/433
+square7.de
+		Oke: https://github.com/publicsuffix/list/pull/433
+bplaced.net
+		Oke: https://github.com/publicsuffix/list/pull/433
+square7.net
+		Oke: https://github.com/publicsuffix/list/pull/433
+browsersafetymark.io
+		Oke: https://github.com/publicsuffix/list/pull/251
+uk0.bigv.io
+		Oke: https://github.com/publicsuffix/list/pull/745
+dh.bytemark.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/620
+vm.bytemark.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/620
+mycd.eu
+		==Fail==
+carrd.co
+		Oke: https://github.com/publicsuffix/list/pull/816
+crd.co
+		Oke: https://github.com/publicsuffix/list/pull/816
+uwu.ai
+		Oke: https://github.com/publicsuffix/list/pull/816
+ae.org
+		==Fail==
+br.com
+		==Fail==
+cn.com
+		==Fail==
+com.de
+		==Fail==
+com.se
+		==Fail==
+de.com
+		==Fail==
+eu.com
+		==Fail==
+gb.net
+		==Fail==
+hu.net
+		==Fail==
+jp.net
+		==Fail==
+jpn.com
+		==Fail==
+mex.com
+		==Fail==
+ru.com
+		==Fail==
+sa.com
+		==Fail==
+se.net
+		==Fail==
+uk.com
+		==Fail==
+uk.net
+		==Fail==
+us.com
+		==Fail==
+za.bz
+		==Fail==
+za.com
+		==Fail==
+ar.com
+		==Fail==
+gb.com
+		==Fail==
+hu.com
+		==Fail==
+kr.com
+		==Fail==
+no.com
+		==Fail==
+qc.com
+		==Fail==
+uy.com
+		==Fail==
+africa.com
+		==Fail==
+gr.com
+		==Fail==
+in.net
+		==Fail==
+web.in
+		Oke: https://github.com/publicsuffix/list/pull/1089
+us.org
+		==Fail==
+co.com
+		==Fail==
+aus.basketball
+		Oke: https://github.com/publicsuffix/list/pull/1089
+nz.basketball
+		Oke: https://github.com/publicsuffix/list/pull/1089
+radio.am
+		Oke: https://github.com/publicsuffix/list/pull/1089
+radio.fm
+		Oke: https://github.com/publicsuffix/list/pull/1089
+co.ro
+		Oke: https://github.com/publicsuffix/list/pull/1089
+shop.ro
+		Oke: https://github.com/publicsuffix/list/pull/1089
+c.la
+		==Fail==
+certmgr.org
+		==Fail==
+discourse.group
+		Oke: https://github.com/publicsuffix/list/pull/768
+discourse.team
+		Oke: https://github.com/publicsuffix/list/pull/949
+virtueeldomein.nl
+		Oke: https://github.com/publicsuffix/list/pull/239
+cleverapps.io
+		Oke: https://github.com/publicsuffix/list/pull/634
+lcl.dev
+		Oke: https://github.com/publicsuffix/list/pull/791
+stg.dev
+		Oke: https://github.com/publicsuffix/list/pull/791
+clic2000.net
+		Oke: https://github.com/publicsuffix/list/pull/1010
+c66.me
+		Oke: https://github.com/publicsuffix/list/pull/409
+cloud66.ws
+		Oke: https://github.com/publicsuffix/list/pull/551
+cloud66.zone
+		Oke: https://github.com/publicsuffix/list/pull/797
+jdevcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/372
+wpdevcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/372
+cloudaccess.host
+		Oke: https://github.com/publicsuffix/list/pull/372
+freesite.host
+		Oke: https://github.com/publicsuffix/list/pull/372
+cloudaccess.net
+		Oke: https://github.com/publicsuffix/list/pull/372
+cloudcontrolled.com
+		==Fail==
+cloudcontrolapp.com
+		==Fail==
+cloudera.site
+		==Fail==
+pages.dev
+		Oke: https://github.com/publicsuffix/list/pull/1093
+trycloudflare.com
+		Oke: https://github.com/publicsuffix/list/pull/835
+workers.dev
+		Oke: https://github.com/publicsuffix/list/pull/772
+wnext.app
+		Oke: https://github.com/publicsuffix/list/pull/785
+co.ca
+		==Fail==
+otap.co
+		Oke: https://github.com/publicsuffix/list/pull/650
+co.cz
+		==Fail==
+c.cdn77.org
+		==Fail==
+cdn77-ssl.net
+		==Fail==
+r.cdn77.net
+		==Fail==
+rsc.cdn77.org
+		==Fail==
+ssl.origin.cdn77-secure.org
+		==Fail==
+cloudns.asia
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.biz
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.club
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.cc
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.eu
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.in
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.info
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.org
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.pro
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.pw
+		Oke: https://github.com/publicsuffix/list/pull/273
+cloudns.us
+		Oke: https://github.com/publicsuffix/list/pull/273
+cnpy.gdn
+		==Fail==
+co.nl
+		==Fail==
+co.no
+		==Fail==
+webhosting.be
+		Oke: https://github.com/publicsuffix/list/pull/565
+hosting-cluster.nl
+		Oke: https://github.com/publicsuffix/list/pull/565
+ac.ru
+		==Fail==
+edu.ru
+		==Fail==
+gov.ru
+		==Fail==
+int.ru
+		==Fail==
+mil.ru
+		==Fail==
+test.ru
+		==Fail==
+dyn.cosidns.de
+		Oke: https://github.com/publicsuffix/list/pull/295
+dynamisches-dns.de
+		Oke: https://github.com/publicsuffix/list/pull/295
+dnsupdater.de
+		Oke: https://github.com/publicsuffix/list/pull/295
+internet-dns.de
+		Oke: https://github.com/publicsuffix/list/pull/295
+l-o-g-i-n.de
+		Oke: https://github.com/publicsuffix/list/pull/295
+dynamic-dns.info
+		Oke: https://github.com/publicsuffix/list/pull/295
+feste-ip.net
+		Oke: https://github.com/publicsuffix/list/pull/295
+knx-server.net
+		Oke: https://github.com/publicsuffix/list/pull/295
+static-access.net
+		Oke: https://github.com/publicsuffix/list/pull/295
+realm.cz
+		==Fail==
+cryptonomic.net
+		Oke: https://github.com/publicsuffix/list/pull/127
+cupcake.is
+		==Fail==
+curv.dev
+		Oke: https://github.com/publicsuffix/list/pull/968
+customer-oci.com
+		Oke: https://github.com/publicsuffix/list/pull/811
+oci.customer-oci.com
+		Oke: https://github.com/publicsuffix/list/pull/811
+ocp.customer-oci.com
+		Oke: https://github.com/publicsuffix/list/pull/811
+ocs.customer-oci.com
+		Oke: https://github.com/publicsuffix/list/pull/811
+cyon.link
+		==Fail==
+cyon.site
+		==Fail==
+fnwk.site
+		Oke: https://github.com/publicsuffix/list/pull/1074
+folionetwork.site
+		Oke: https://github.com/publicsuffix/list/pull/1074
+platform0.app
+		Oke: https://github.com/publicsuffix/list/pull/1074
+daplie.me
+		==Fail==
+localhost.daplie.me
+		==Fail==
+dattolocal.com
+		Oke: https://github.com/publicsuffix/list/pull/624
+dattorelay.com
+		Oke: https://github.com/publicsuffix/list/pull/624
+dattoweb.com
+		Oke: https://github.com/publicsuffix/list/pull/624
+mydatto.com
+		Oke: https://github.com/publicsuffix/list/pull/624
+dattolocal.net
+		Oke: https://github.com/publicsuffix/list/pull/624
+mydatto.net
+		Oke: https://github.com/publicsuffix/list/pull/624
+biz.dk
+		==Fail==
+co.dk
+		==Fail==
+firm.dk
+		==Fail==
+reg.dk
+		==Fail==
+store.dk
+		==Fail==
+dyndns.dappnode.io
+		==Fail==
+dapps.earth
+		==Fail==
+bzz.dapps.earth
+		==Fail==
+builtwithdark.com
+		Oke: https://github.com/publicsuffix/list/pull/857
+edgestack.me
+		==Fail==
+debian.net
+		Oke: https://github.com/publicsuffix/list/pull/516
+dedyn.io
+		Oke: https://github.com/publicsuffix/list/pull/68
+jozi.biz
+		Oke: https://github.com/publicsuffix/list/pull/1088
+dnshome.de
+		==Fail==
+online.th
+		Oke: https://github.com/publicsuffix/list/pull/716
+shop.th
+		Oke: https://github.com/publicsuffix/list/pull/716
+drayddns.com
+		Oke: https://github.com/publicsuffix/list/pull/451
+dreamhosters.com
+		==Fail==
+mydrobo.com
+		==Fail==
+drud.io
+		==Fail==
+drud.us
+		==Fail==
+duckdns.org
+		==Fail==
+bip.sh
+		Oke: https://github.com/publicsuffix/list/pull/1098
+bitbridge.net
+		Oke: https://github.com/publicsuffix/list/pull/1000
+dy.fi
+		Oke: https://github.com/publicsuffix/list/pull/95
+tunk.org
+		Oke: https://github.com/publicsuffix/list/pull/95
+dyndns-at-home.com
+		==Fail==
+dyndns-at-work.com
+		==Fail==
+dyndns-blog.com
+		==Fail==
+dyndns-free.com
+		==Fail==
+dyndns-home.com
+		==Fail==
+dyndns-ip.com
+		==Fail==
+dyndns-mail.com
+		==Fail==
+dyndns-office.com
+		==Fail==
+dyndns-pics.com
+		==Fail==
+dyndns-remote.com
+		==Fail==
+dyndns-server.com
+		==Fail==
+dyndns-web.com
+		==Fail==
+dyndns-wiki.com
+		==Fail==
+dyndns-work.com
+		==Fail==
+dyndns.biz
+		==Fail==
+dyndns.info
+		==Fail==
+dyndns.org
+		==Fail==
+dyndns.tv
+		==Fail==
+at-band-camp.net
+		==Fail==
+ath.cx
+		==Fail==
+barrel-of-knowledge.info
+		==Fail==
+barrell-of-knowledge.info
+		==Fail==
+better-than.tv
+		==Fail==
+blogdns.com
+		==Fail==
+blogdns.net
+		==Fail==
+blogdns.org
+		==Fail==
+blogsite.org
+		==Fail==
+boldlygoingnowhere.org
+		==Fail==
+broke-it.net
+		==Fail==
+buyshouses.net
+		==Fail==
+cechire.com
+		==Fail==
+dnsalias.com
+		==Fail==
+dnsalias.net
+		==Fail==
+dnsalias.org
+		==Fail==
+dnsdojo.com
+		==Fail==
+dnsdojo.net
+		==Fail==
+dnsdojo.org
+		==Fail==
+does-it.net
+		==Fail==
+doesntexist.com
+		==Fail==
+doesntexist.org
+		==Fail==
+dontexist.com
+		==Fail==
+dontexist.net
+		==Fail==
+dontexist.org
+		==Fail==
+doomdns.com
+		==Fail==
+doomdns.org
+		==Fail==
+dvrdns.org
+		==Fail==
+dyn-o-saur.com
+		==Fail==
+dynalias.com
+		==Fail==
+dynalias.net
+		==Fail==
+dynalias.org
+		==Fail==
+dynathome.net
+		==Fail==
+dyndns.ws
+		==Fail==
+endofinternet.net
+		==Fail==
+endofinternet.org
+		==Fail==
+endoftheinternet.org
+		==Fail==
+est-a-la-maison.com
+		==Fail==
+est-a-la-masion.com
+		==Fail==
+est-le-patron.com
+		==Fail==
+est-mon-blogueur.com
+		==Fail==
+for-better.biz
+		==Fail==
+for-more.biz
+		==Fail==
+for-our.info
+		==Fail==
+for-some.biz
+		==Fail==
+for-the.biz
+		==Fail==
+forgot.her.name
+		==Fail==
+forgot.his.name
+		==Fail==
+from-ak.com
+		==Fail==
+from-al.com
+		==Fail==
+from-ar.com
+		==Fail==
+from-az.net
+		==Fail==
+from-ca.com
+		==Fail==
+from-co.net
+		==Fail==
+from-ct.com
+		==Fail==
+from-dc.com
+		==Fail==
+from-de.com
+		==Fail==
+from-fl.com
+		==Fail==
+from-ga.com
+		==Fail==
+from-hi.com
+		==Fail==
+from-ia.com
+		==Fail==
+from-id.com
+		==Fail==
+from-il.com
+		==Fail==
+from-in.com
+		==Fail==
+from-ks.com
+		==Fail==
+from-ky.com
+		==Fail==
+from-la.net
+		==Fail==
+from-ma.com
+		==Fail==
+from-md.com
+		==Fail==
+from-me.org
+		==Fail==
+from-mi.com
+		==Fail==
+from-mn.com
+		==Fail==
+from-mo.com
+		==Fail==
+from-ms.com
+		==Fail==
+from-mt.com
+		==Fail==
+from-nc.com
+		==Fail==
+from-nd.com
+		==Fail==
+from-ne.com
+		==Fail==
+from-nh.com
+		==Fail==
+from-nj.com
+		==Fail==
+from-nm.com
+		==Fail==
+from-nv.com
+		==Fail==
+from-ny.net
+		==Fail==
+from-oh.com
+		==Fail==
+from-ok.com
+		==Fail==
+from-or.com
+		==Fail==
+from-pa.com
+		==Fail==
+from-pr.com
+		==Fail==
+from-ri.com
+		==Fail==
+from-sc.com
+		==Fail==
+from-sd.com
+		==Fail==
+from-tn.com
+		==Fail==
+from-tx.com
+		==Fail==
+from-ut.com
+		==Fail==
+from-va.com
+		==Fail==
+from-vt.com
+		==Fail==
+from-wa.com
+		==Fail==
+from-wi.com
+		==Fail==
+from-wv.com
+		==Fail==
+from-wy.com
+		==Fail==
+ftpaccess.cc
+		==Fail==
+fuettertdasnetz.de
+		==Fail==
+game-host.org
+		==Fail==
+game-server.cc
+		==Fail==
+getmyip.com
+		==Fail==
+gets-it.net
+		==Fail==
+go.dyndns.org
+		==Fail==
+gotdns.com
+		==Fail==
+gotdns.org
+		==Fail==
+groks-the.info
+		==Fail==
+groks-this.info
+		==Fail==
+ham-radio-op.net
+		==Fail==
+here-for-more.info
+		==Fail==
+hobby-site.com
+		==Fail==
+hobby-site.org
+		==Fail==
+home.dyndns.org
+		==Fail==
+homedns.org
+		==Fail==
+homeftp.net
+		==Fail==
+homeftp.org
+		==Fail==
+homeip.net
+		==Fail==
+homelinux.com
+		==Fail==
+homelinux.net
+		==Fail==
+homelinux.org
+		==Fail==
+homeunix.com
+		==Fail==
+homeunix.net
+		==Fail==
+homeunix.org
+		==Fail==
+iamallama.com
+		==Fail==
+in-the-band.net
+		==Fail==
+is-a-anarchist.com
+		==Fail==
+is-a-blogger.com
+		==Fail==
+is-a-bookkeeper.com
+		==Fail==
+is-a-bruinsfan.org
+		==Fail==
+is-a-bulls-fan.com
+		==Fail==
+is-a-candidate.org
+		==Fail==
+is-a-caterer.com
+		==Fail==
+is-a-celticsfan.org
+		==Fail==
+is-a-chef.com
+		==Fail==
+is-a-chef.net
+		==Fail==
+is-a-chef.org
+		==Fail==
+is-a-conservative.com
+		==Fail==
+is-a-cpa.com
+		==Fail==
+is-a-cubicle-slave.com
+		==Fail==
+is-a-democrat.com
+		==Fail==
+is-a-designer.com
+		==Fail==
+is-a-doctor.com
+		==Fail==
+is-a-financialadvisor.com
+		==Fail==
+is-a-geek.com
+		==Fail==
+is-a-geek.net
+		==Fail==
+is-a-geek.org
+		==Fail==
+is-a-green.com
+		==Fail==
+is-a-guru.com
+		==Fail==
+is-a-hard-worker.com
+		==Fail==
+is-a-hunter.com
+		==Fail==
+is-a-knight.org
+		==Fail==
+is-a-landscaper.com
+		==Fail==
+is-a-lawyer.com
+		==Fail==
+is-a-liberal.com
+		==Fail==
+is-a-libertarian.com
+		==Fail==
+is-a-linux-user.org
+		==Fail==
+is-a-llama.com
+		==Fail==
+is-a-musician.com
+		==Fail==
+is-a-nascarfan.com
+		==Fail==
+is-a-nurse.com
+		==Fail==
+is-a-painter.com
+		==Fail==
+is-a-patsfan.org
+		==Fail==
+is-a-personaltrainer.com
+		==Fail==
+is-a-photographer.com
+		==Fail==
+is-a-player.com
+		==Fail==
+is-a-republican.com
+		==Fail==
+is-a-rockstar.com
+		==Fail==
+is-a-socialist.com
+		==Fail==
+is-a-soxfan.org
+		==Fail==
+is-a-student.com
+		==Fail==
+is-a-teacher.com
+		==Fail==
+is-a-techie.com
+		==Fail==
+is-a-therapist.com
+		==Fail==
+is-an-accountant.com
+		==Fail==
+is-an-actor.com
+		==Fail==
+is-an-actress.com
+		==Fail==
+is-an-anarchist.com
+		==Fail==
+is-an-artist.com
+		==Fail==
+is-an-engineer.com
+		==Fail==
+is-an-entertainer.com
+		==Fail==
+is-by.us
+		==Fail==
+is-certified.com
+		==Fail==
+is-found.org
+		==Fail==
+is-gone.com
+		==Fail==
+is-into-anime.com
+		==Fail==
+is-into-cars.com
+		==Fail==
+is-into-cartoons.com
+		==Fail==
+is-into-games.com
+		==Fail==
+is-leet.com
+		==Fail==
+is-lost.org
+		==Fail==
+is-not-certified.com
+		==Fail==
+is-saved.org
+		==Fail==
+is-slick.com
+		==Fail==
+is-uberleet.com
+		==Fail==
+is-very-bad.org
+		==Fail==
+is-very-evil.org
+		==Fail==
+is-very-good.org
+		==Fail==
+is-very-nice.org
+		==Fail==
+is-very-sweet.org
+		==Fail==
+is-with-theband.com
+		==Fail==
+isa-geek.com
+		==Fail==
+isa-geek.net
+		==Fail==
+isa-geek.org
+		==Fail==
+isa-hockeynut.com
+		==Fail==
+issmarterthanyou.com
+		==Fail==
+isteingeek.de
+		==Fail==
+istmein.de
+		==Fail==
+kicks-ass.net
+		==Fail==
+kicks-ass.org
+		==Fail==
+knowsitall.info
+		==Fail==
+land-4-sale.us
+		==Fail==
+lebtimnetz.de
+		==Fail==
+leitungsen.de
+		==Fail==
+likes-pie.com
+		==Fail==
+likescandy.com
+		==Fail==
+merseine.nu
+		==Fail==
+mine.nu
+		==Fail==
+misconfused.org
+		==Fail==
+mypets.ws
+		==Fail==
+myphotos.cc
+		==Fail==
+neat-url.com
+		==Fail==
+office-on-the.net
+		==Fail==
+on-the-web.tv
+		==Fail==
+podzone.net
+		==Fail==
+podzone.org
+		==Fail==
+readmyblog.org
+		==Fail==
+saves-the-whales.com
+		==Fail==
+scrapper-site.net
+		==Fail==
+scrapping.cc
+		==Fail==
+selfip.biz
+		==Fail==
+selfip.com
+		==Fail==
+selfip.info
+		==Fail==
+selfip.net
+		==Fail==
+selfip.org
+		==Fail==
+sells-for-less.com
+		==Fail==
+sells-for-u.com
+		==Fail==
+sells-it.net
+		==Fail==
+sellsyourhome.org
+		==Fail==
+servebbs.com
+		==Fail==
+servebbs.net
+		==Fail==
+servebbs.org
+		==Fail==
+serveftp.net
+		==Fail==
+serveftp.org
+		==Fail==
+servegame.org
+		==Fail==
+shacknet.nu
+		==Fail==
+simple-url.com
+		==Fail==
+space-to-rent.com
+		==Fail==
+stuff-4-sale.org
+		==Fail==
+stuff-4-sale.us
+		==Fail==
+teaches-yoga.com
+		==Fail==
+thruhere.net
+		==Fail==
+traeumtgerade.de
+		==Fail==
+webhop.biz
+		==Fail==
+webhop.info
+		==Fail==
+webhop.net
+		==Fail==
+webhop.org
+		==Fail==
+worse-than.tv
+		==Fail==
+writesthisblog.com
+		==Fail==
+ddnss.de
+		==Fail==
+dyn.ddnss.de
+		Oke: https://github.com/publicsuffix/list/pull/180
+dyndns.ddnss.de
+		Oke: https://github.com/publicsuffix/list/pull/180
+dyndns1.de
+		Oke: https://github.com/publicsuffix/list/pull/180
+dyn-ip24.de
+		Oke: https://github.com/publicsuffix/list/pull/180
+home-webserver.de
+		==Fail==
+dyn.home-webserver.de
+		==Fail==
+myhome-server.de
+		==Fail==
+ddnss.org
+		Oke: https://github.com/publicsuffix/list/pull/180
+definima.net
+		Oke: https://github.com/publicsuffix/list/pull/383
+definima.io
+		Oke: https://github.com/publicsuffix/list/pull/383
+bci.dnstrace.pro
+		Oke: https://github.com/publicsuffix/list/pull/630
+ddnsfree.com
+		==Fail==
+ddnsgeek.com
+		==Fail==
+giize.com
+		==Fail==
+gleeze.com
+		==Fail==
+kozow.com
+		==Fail==
+loseyourip.com
+		==Fail==
+ooguy.com
+		==Fail==
+theworkpc.com
+		==Fail==
+casacam.net
+		==Fail==
+dynu.net
+		==Fail==
+accesscam.org
+		==Fail==
+camdvr.org
+		==Fail==
+freeddns.org
+		==Fail==
+mywire.org
+		==Fail==
+webredirect.org
+		==Fail==
+myddns.rocks
+		==Fail==
+blogsite.xyz
+		==Fail==
+dynv6.net
+		==Fail==
+e4.cz
+		Oke: https://github.com/publicsuffix/list/pull/108
+en-root.fr
+		Oke: https://github.com/publicsuffix/list/pull/910
+mytuleap.com
+		Oke: https://github.com/publicsuffix/list/pull/453
+onred.one
+		==Fail==
+staging.onred.one
+		==Fail==
+service.one
+		==Fail==
+enonic.io
+		Oke: https://github.com/publicsuffix/list/pull/330
+customer.enonic.io
+		Oke: https://github.com/publicsuffix/list/pull/330
+eu.org
+		==Fail==
+al.eu.org
+		==Fail==
+asso.eu.org
+		==Fail==
+at.eu.org
+		==Fail==
+au.eu.org
+		==Fail==
+be.eu.org
+		==Fail==
+bg.eu.org
+		==Fail==
+ca.eu.org
+		==Fail==
+cd.eu.org
+		==Fail==
+ch.eu.org
+		==Fail==
+cn.eu.org
+		==Fail==
+cy.eu.org
+		==Fail==
+cz.eu.org
+		==Fail==
+de.eu.org
+		==Fail==
+dk.eu.org
+		==Fail==
+edu.eu.org
+		==Fail==
+ee.eu.org
+		==Fail==
+es.eu.org
+		==Fail==
+fi.eu.org
+		==Fail==
+fr.eu.org
+		==Fail==
+gr.eu.org
+		==Fail==
+hr.eu.org
+		==Fail==
+hu.eu.org
+		==Fail==
+ie.eu.org
+		==Fail==
+il.eu.org
+		==Fail==
+in.eu.org
+		==Fail==
+int.eu.org
+		==Fail==
+is.eu.org
+		==Fail==
+it.eu.org
+		==Fail==
+jp.eu.org
+		==Fail==
+kr.eu.org
+		==Fail==
+lt.eu.org
+		==Fail==
+lu.eu.org
+		==Fail==
+lv.eu.org
+		==Fail==
+mc.eu.org
+		==Fail==
+me.eu.org
+		==Fail==
+mk.eu.org
+		==Fail==
+mt.eu.org
+		==Fail==
+my.eu.org
+		==Fail==
+net.eu.org
+		==Fail==
+ng.eu.org
+		==Fail==
+nl.eu.org
+		==Fail==
+no.eu.org
+		==Fail==
+nz.eu.org
+		==Fail==
+paris.eu.org
+		==Fail==
+pl.eu.org
+		==Fail==
+pt.eu.org
+		==Fail==
+q-a.eu.org
+		==Fail==
+ro.eu.org
+		==Fail==
+ru.eu.org
+		==Fail==
+se.eu.org
+		==Fail==
+si.eu.org
+		==Fail==
+sk.eu.org
+		==Fail==
+tr.eu.org
+		==Fail==
+uk.eu.org
+		==Fail==
+us.eu.org
+		==Fail==
+eu-1.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/201
+eu-2.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/201
+eu-3.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/428
+eu-4.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/481
+us-1.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/201
+us-2.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/201
+us-3.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/428
+us-4.evennode.com
+		Oke: https://github.com/publicsuffix/list/pull/481
+twmail.cc
+		Oke: https://github.com/publicsuffix/list/pull/398
+twmail.net
+		Oke: https://github.com/publicsuffix/list/pull/398
+twmail.org
+		Oke: https://github.com/publicsuffix/list/pull/398
+mymailer.com.tw
+		Oke: https://github.com/publicsuffix/list/pull/398
+url.tw
+		Oke: https://github.com/publicsuffix/list/pull/398
+onfabrica.com
+		Oke: https://github.com/publicsuffix/list/pull/999
+apps.fbsbx.com
+		==Fail==
+ru.net
+		Oke: https://github.com/publicsuffix/list/pull/384
+adygeya.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+bashkiria.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+bir.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+cbg.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+com.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+dagestan.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+grozny.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+kalmykia.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+kustanai.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+marine.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+mordovia.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+msk.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+mytis.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+nalchik.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+nov.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+pyatigorsk.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+spb.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+vladikavkaz.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+vladimir.ru
+		Oke: https://github.com/publicsuffix/list/pull/384
+abkhazia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+adygeya.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+aktyubinsk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+arkhangelsk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+armenia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+ashgabad.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+azerbaijan.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+balashov.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+bashkiria.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+bryansk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+bukhara.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+chimkent.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+dagestan.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+east-kazakhstan.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+exnet.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+georgia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+grozny.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+ivanovo.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+jambyl.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+kalmykia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+kaluga.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+karacol.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+karaganda.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+karelia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+khakassia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+krasnodar.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+kurgan.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+kustanai.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+lenug.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+mangyshlak.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+mordovia.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+msk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+murmansk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+nalchik.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+navoi.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+north-kazakhstan.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+nov.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+obninsk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+penza.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+pokrovsk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+sochi.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+spb.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+tashkent.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+termez.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+togliatti.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+troitsk.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+tselinograd.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+tula.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+tuva.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+vladikavkaz.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+vladimir.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+vologda.su
+		Oke: https://github.com/publicsuffix/list/pull/384
+channelsdvr.net
+		==Fail==
+u.channelsdvr.net
+		==Fail==
+fastly-terrarium.com
+		Oke: https://github.com/publicsuffix/list/pull/729
+fastlylb.net
+		==Fail==
+map.fastlylb.net
+		==Fail==
+freetls.fastly.net
+		Oke: https://github.com/publicsuffix/list/pull/424
+map.fastly.net
+		==Fail==
+a.prod.fastly.net
+		==Fail==
+global.prod.fastly.net
+		==Fail==
+a.ssl.fastly.net
+		==Fail==
+b.ssl.fastly.net
+		==Fail==
+global.ssl.fastly.net
+		==Fail==
+fastvps-server.com
+		Oke: https://github.com/publicsuffix/list/pull/541
+fastvps.host
+		Oke: https://github.com/publicsuffix/list/pull/941
+myfast.host
+		Oke: https://github.com/publicsuffix/list/pull/941
+fastvps.site
+		Oke: https://github.com/publicsuffix/list/pull/941
+myfast.space
+		Oke: https://github.com/publicsuffix/list/pull/941
+fhapp.xyz
+		==Fail==
+fedorainfracloud.org
+		Oke: https://github.com/publicsuffix/list/pull/414
+fedorapeople.org
+		Oke: https://github.com/publicsuffix/list/pull/414
+cloud.fedoraproject.org
+		Oke: https://github.com/publicsuffix/list/pull/414
+app.os.fedoraproject.org
+		Oke: https://github.com/publicsuffix/list/pull/533
+app.os.stg.fedoraproject.org
+		Oke: https://github.com/publicsuffix/list/pull/533
+conn.uk
+		Oke: https://github.com/publicsuffix/list/pull/963
+copro.uk
+		Oke: https://github.com/publicsuffix/list/pull/963
+couk.me
+		Oke: https://github.com/publicsuffix/list/pull/963
+ukco.me
+		Oke: https://github.com/publicsuffix/list/pull/963
+mydobiss.com
+		Oke: https://github.com/publicsuffix/list/pull/706
+fh-muenster.io
+		Oke: https://github.com/publicsuffix/list/pull/1134 
+filegear.me
+		Oke: https://github.com/publicsuffix/list/pull/434
+filegear-au.me
+		Oke: https://github.com/publicsuffix/list/pull/713
+filegear-de.me
+		Oke: https://github.com/publicsuffix/list/pull/713
+filegear-gb.me
+		Oke: https://github.com/publicsuffix/list/pull/713
+filegear-ie.me
+		Oke: https://github.com/publicsuffix/list/pull/713
+filegear-jp.me
+		Oke: https://github.com/publicsuffix/list/pull/713
+filegear-sg.me
+		Oke: https://github.com/publicsuffix/list/pull/713
+firebaseapp.com
+		==Fail==
+fly.dev
+		Oke: https://github.com/publicsuffix/list/pull/1015
+edgeapp.net
+		Oke: https://github.com/publicsuffix/list/pull/1015
+shw.io
+		Oke: https://github.com/publicsuffix/list/pull/1015
+flynnhosting.net
+		Oke: https://github.com/publicsuffix/list/pull/459
+0e.vc
+		==Fail==
+freebox-os.com
+		Oke: https://github.com/publicsuffix/list/pull/129
+freeboxos.com
+		Oke: https://github.com/publicsuffix/list/pull/129
+fbx-os.fr
+		Oke: https://github.com/publicsuffix/list/pull/129
+fbxos.fr
+		Oke: https://github.com/publicsuffix/list/pull/129
+freebox-os.fr
+		Oke: https://github.com/publicsuffix/list/pull/129
+freeboxos.fr
+		Oke: https://github.com/publicsuffix/list/pull/129
+freedesktop.org
+		Oke: https://github.com/publicsuffix/list/pull/619
+wien.funkfeuer.at
+		Oke: https://github.com/publicsuffix/list/pull/1041
+futurecms.at
+		Oke: https://github.com/publicsuffix/list/pull/498
+ex.futurecms.at
+		Oke: https://github.com/publicsuffix/list/pull/520
+in.futurecms.at
+		Oke: https://github.com/publicsuffix/list/pull/520
+futurehosting.at
+		Oke: https://github.com/publicsuffix/list/pull/332
+futuremailing.at
+		==Fail==
+ex.ortsinfo.at
+		Oke: https://github.com/publicsuffix/list/pull/244
+kunden.ortsinfo.at
+		Oke: https://github.com/publicsuffix/list/pull/244
+statics.cloud
+		==Fail==
+service.gov.uk
+		==Fail==
+gehirn.ne.jp
+		Oke: https://github.com/publicsuffix/list/pull/795
+usercontent.jp
+		Oke: https://github.com/publicsuffix/list/pull/795
+gentapps.com
+		Oke: https://github.com/publicsuffix/list/pull/916
+gentlentapis.com
+		Oke: https://github.com/publicsuffix/list/pull/984
+lab.ms
+		==Fail==
+cdn-edges.net
+		Oke: https://github.com/publicsuffix/list/pull/1110
+github.io
+		==Fail==
+githubusercontent.com
+		==Fail==
+gitlab.io
+		Oke: https://github.com/publicsuffix/list/pull/268
+gitapp.si
+		Oke: https://github.com/publicsuffix/list/pull/1091
+gitpage.si
+		Oke: https://github.com/publicsuffix/list/pull/1013
+glitch.me
+		Oke: https://github.com/publicsuffix/list/pull/769
+lolipop.io
+		Oke: https://github.com/publicsuffix/list/pull/881
+cloudapps.digital
+		Oke: https://github.com/publicsuffix/list/pull/765
+london.cloudapps.digital
+		Oke: https://github.com/publicsuffix/list/pull/765
+pymnt.uk
+		Oke: https://github.com/publicsuffix/list/pull/1084
+homeoffice.gov.uk
+		Oke: https://github.com/publicsuffix/list/pull/342
+ro.im
+		==Fail==
+goip.de
+		Oke: https://github.com/publicsuffix/list/pull/85
+run.app
+		Oke: https://github.com/publicsuffix/list/pull/681
+a.run.app
+		Oke: https://github.com/publicsuffix/list/pull/681
+web.app
+		Oke: https://github.com/publicsuffix/list/pull/830
+0emm.com
+		==Fail==
+appspot.com
+		==Fail==
+r.appspot.com
+		Oke: https://github.com/publicsuffix/list/pull/920
+codespot.com
+		==Fail==
+googleapis.com
+		==Fail==
+googlecode.com
+		==Fail==
+pagespeedmobilizer.com
+		==Fail==
+publishproxy.com
+		Oke: https://github.com/publicsuffix/list/pull/294
+withgoogle.com
+		==Fail==
+withyoutube.com
+		==Fail==
+gateway.dev
+		Oke: https://github.com/publicsuffix/list/pull/1117
+cloud.goog
+		Oke: https://github.com/publicsuffix/list/pull/449
+translate.goog
+		==Fail==
+cloudfunctions.net
+		==Fail==
+blogspot.ae
+		==Fail==
+blogspot.al
+		==Fail==
+blogspot.am
+		==Fail==
+blogspot.ba
+		==Fail==
+blogspot.be
+		==Fail==
+blogspot.bg
+		==Fail==
+blogspot.bj
+		==Fail==
+blogspot.ca
+		==Fail==
+blogspot.cf
+		==Fail==
+blogspot.ch
+		==Fail==
+blogspot.cl
+		==Fail==
+blogspot.co.at
+		==Fail==
+blogspot.co.id
+		==Fail==
+blogspot.co.il
+		==Fail==
+blogspot.co.ke
+		==Fail==
+blogspot.co.nz
+		==Fail==
+blogspot.co.uk
+		==Fail==
+blogspot.co.za
+		==Fail==
+blogspot.com
+		==Fail==
+blogspot.com.ar
+		==Fail==
+blogspot.com.au
+		==Fail==
+blogspot.com.br
+		==Fail==
+blogspot.com.by
+		==Fail==
+blogspot.com.co
+		==Fail==
+blogspot.com.cy
+		==Fail==
+blogspot.com.ee
+		==Fail==
+blogspot.com.eg
+		==Fail==
+blogspot.com.es
+		==Fail==
+blogspot.com.mt
+		==Fail==
+blogspot.com.ng
+		==Fail==
+blogspot.com.tr
+		==Fail==
+blogspot.com.uy
+		==Fail==
+blogspot.cv
+		==Fail==
+blogspot.cz
+		==Fail==
+blogspot.de
+		==Fail==
+blogspot.dk
+		==Fail==
+blogspot.fi
+		==Fail==
+blogspot.fr
+		==Fail==
+blogspot.gr
+		==Fail==
+blogspot.hk
+		==Fail==
+blogspot.hr
+		==Fail==
+blogspot.hu
+		==Fail==
+blogspot.ie
+		==Fail==
+blogspot.in
+		==Fail==
+blogspot.is
+		==Fail==
+blogspot.it
+		==Fail==
+blogspot.jp
+		==Fail==
+blogspot.kr
+		==Fail==
+blogspot.li
+		==Fail==
+blogspot.lt
+		==Fail==
+blogspot.lu
+		==Fail==
+blogspot.md
+		==Fail==
+blogspot.mk
+		==Fail==
+blogspot.mr
+		==Fail==
+blogspot.mx
+		==Fail==
+blogspot.my
+		==Fail==
+blogspot.nl
+		==Fail==
+blogspot.no
+		==Fail==
+blogspot.pe
+		==Fail==
+blogspot.pt
+		==Fail==
+blogspot.qa
+		==Fail==
+blogspot.re
+		==Fail==
+blogspot.ro
+		==Fail==
+blogspot.rs
+		==Fail==
+blogspot.ru
+		==Fail==
+blogspot.se
+		==Fail==
+blogspot.sg
+		==Fail==
+blogspot.si
+		==Fail==
+blogspot.sk
+		==Fail==
+blogspot.sn
+		==Fail==
+blogspot.td
+		==Fail==
+blogspot.tw
+		==Fail==
+blogspot.ug
+		==Fail==
+blogspot.vn
+		==Fail==
+graphox.us
+		Oke: https://github.com/publicsuffix/list/pull/960
+awsmppl.com
+		Oke: https://github.com/publicsuffix/list/pull/900
+fin.ci
+		Oke: https://github.com/publicsuffix/list/pull/733
+free.hr
+		==Fail==
+caa.li
+		Oke: https://github.com/publicsuffix/list/pull/733
+ua.rs
+		Oke: https://github.com/publicsuffix/list/pull/733
+conf.se
+		Oke: https://github.com/publicsuffix/list/pull/733
+hs.zone
+		==Fail==
+hs.run
+		==Fail==
+hashbang.sh
+		==Fail==
+hasura.app
+		==Fail==
+hasura-app.io
+		Oke: https://github.com/publicsuffix/list/pull/203
+hepforge.org
+		==Fail==
+herokuapp.com
+		==Fail==
+herokussl.com
+		==Fail==
+myravendb.com
+		==Fail==
+ravendb.community
+		Oke: https://github.com/publicsuffix/list/pull/535
+ravendb.me
+		==Fail==
+development.run
+		Oke: https://github.com/publicsuffix/list/pull/535
+ravendb.run
+		Oke: https://github.com/publicsuffix/list/pull/535
+secaas.hk
+		Oke: https://github.com/publicsuffix/list/pull/1138
+bpl.biz
+		==Fail==
+orx.biz
+		Oke: https://github.com/publicsuffix/list/pull/770
+ng.city
+		==Fail==
+biz.gl
+		==Fail==
+ng.ink
+		==Fail==
+col.ng
+		Oke: https://github.com/publicsuffix/list/pull/770
+firm.ng
+		Oke: https://github.com/publicsuffix/list/pull/846
+gen.ng
+		Oke: https://github.com/publicsuffix/list/pull/770
+ltd.ng
+		==Fail==
+ngo.ng
+		Oke: https://github.com/publicsuffix/list/pull/871
+ng.school
+		==Fail==
+sch.so
+		==Fail==
+hostyhosting.io
+		Oke: https://github.com/publicsuffix/list/pull/1046
+häkkinen.fi
+		==Fail==
+moonscale.io
+		Oke: https://github.com/publicsuffix/list/pull/757
+moonscale.net
+		==Fail==
+iki.fi
+		==Fail==
+dyn-berlin.de
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-berlin.de
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-brb.de
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-butter.de
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-dsl.de
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-dsl.net
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-dsl.org
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-vpn.de
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-vpn.net
+		Oke: https://github.com/publicsuffix/list/pull/711
+in-vpn.org
+		Oke: https://github.com/publicsuffix/list/pull/711
+biz.at
+		==Fail==
+info.at
+		==Fail==
+info.cx
+		==Fail==
+ac.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+al.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+am.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+ap.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+ba.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+ce.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+df.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+es.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+go.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+ma.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+mg.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+ms.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+mt.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+pa.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+pb.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+pe.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+pi.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+pr.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+rj.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+rn.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+ro.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+rr.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+rs.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+sc.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+se.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+sp.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+to.leg.br
+		Oke: https://github.com/publicsuffix/list/pull/314
+pixolino.com
+		Oke: https://github.com/publicsuffix/list/pull/456
+na4u.ru
+		Oke: https://github.com/publicsuffix/list/pull/998
+iopsys.se
+		Oke: https://github.com/publicsuffix/list/pull/1104
+ipifony.net
+		Oke: https://github.com/publicsuffix/list/pull/429
+mein-iserv.de
+		Oke: https://github.com/publicsuffix/list/pull/552
+schulserver.de
+		Oke: https://github.com/publicsuffix/list/pull/996
+test-iserv.de
+		Oke: https://github.com/publicsuffix/list/pull/552
+iserv.dev
+		Oke: https://github.com/publicsuffix/list/pull/826
+iobb.net
+		Oke: https://github.com/publicsuffix/list/pull/828
+mel.cloudlets.com.au
+		Oke: https://github.com/publicsuffix/list/pull/1095
+cloud.interhostsolutions.be
+		Oke: https://github.com/publicsuffix/list/pull/1095
+users.scale.virtualcloud.com.br
+		Oke: https://github.com/publicsuffix/list/pull/1095
+mycloud.by
+		Oke: https://github.com/publicsuffix/list/pull/1095
+alp1.ae.flow.ch
+		Oke: https://github.com/publicsuffix/list/pull/1095
+appengine.flow.ch
+		Oke: https://github.com/publicsuffix/list/pull/1092
+es-1.axarnet.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+diadem.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+vip.jelastic.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1092
+jele.cloud
+		Oke: ttps://github.com/publicsuffix/list/pull/1063
+it1.eur.aruba.jenv-aruba.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+it1.jenv-aruba.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+it1-eur.jenv-arubabiz.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+primetel.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+uk.primetel.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ca.reclaim.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+uk.reclaim.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+us.reclaim.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ch.trendhosting.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+de.trendhosting.cloud
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jele.club
+		Oke: https://github.com/publicsuffix/list/pull/1063
+clicketcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ams.cloudswitches.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+au.cloudswitches.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+sg.cloudswitches.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+dopaas.com
+		Oke: https://github.com/publicsuffix/list/pull/1063
+elastyco.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+nv.elastyco.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+hidora.com
+		Oke: https://github.com/publicsuffix/list/pull/1023
+paas.hosted-by-previder.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+rag-cloud.hosteur.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+rag-cloud-ch.hosteur.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jcloud.ik-server.com
+		Oke: https://github.com/publicsuffix/list/pull/1063
+jcloud-ver-jpc.ik-server.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+demo.jelastic.com
+		Oke: https://github.com/publicsuffix/list/pull/1023
+kilatiron.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+paas.massivegrid.com
+		Oke: https://github.com/publicsuffix/list/pull/1092
+jed.wafaicloud.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+lon.wafaicloud.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ryd.wafaicloud.com
+		Oke: https://github.com/publicsuffix/list/pull/1095
+j.scaleforce.com.cy
+		Oke: https://github.com/publicsuffix/list/pull/1023
+jelastic.dogado.eu
+		Oke: https://github.com/publicsuffix/list/pull/1092
+paas.leviracloud.eu
+		Oke: https://github.com/publicsuffix/list/pull/1095
+fi.cloudplatform.fi
+		Oke: https://github.com/publicsuffix/list/pull/1092
+demo.datacenter.fi
+		Oke: https://github.com/publicsuffix/list/pull/1095
+paas.datacenter.fi
+		Oke: https://github.com/publicsuffix/list/pull/1092
+jele.host
+		Oke: https://github.com/publicsuffix/list/pull/1063
+mircloud.host
+		Oke: https://github.com/publicsuffix/list/pull/1023
+jele.io
+		Oke: https://github.com/publicsuffix/list/pull/1063
+ocs.opusinteractive.io
+		Oke: https://github.com/publicsuffix/list/pull/1095
+cloud.unispace.io
+		Oke: https://github.com/publicsuffix/list/pull/1095
+cloud-de.unispace.io
+		Oke: https://github.com/publicsuffix/list/pull/1095
+cloud-fr1.unispace.io
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jc.neen.it
+		Oke: https://github.com/publicsuffix/list/pull/1095
+cloud.jelastic.open.tim.it
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jcloud.kz
+		Oke: https://github.com/publicsuffix/list/pull/1095
+upaas.kazteleport.kz
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jl.serv.net.mx
+		Oke: https://github.com/publicsuffix/list/pull/1095
+cloudjiffy.net
+		Oke: https://github.com/publicsuffix/list/pull/1063
+fra1-de.cloudjiffy.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+west1-us.cloudjiffy.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ams1.jls.docktera.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jls-sto1.elastx.net
+		Oke: https://github.com/publicsuffix/list/pull/1023
+jls-sto2.elastx.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jls-sto3.elastx.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+fr-1.paas.massivegrid.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+lon-1.paas.massivegrid.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+lon-2.paas.massivegrid.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ny-1.paas.massivegrid.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+ny-2.paas.massivegrid.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+sg-1.paas.massivegrid.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jelastic.saveincloud.net
+		Oke: https://github.com/publicsuffix/list/pull/1063
+nordeste-idc.saveincloud.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+j.scaleforce.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jelastic.tsukaeru.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+atl.jelastic.vps-host.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+njs.jelastic.vps-host.net
+		Oke: https://github.com/publicsuffix/list/pull/1095
+unicloud.pl
+		Oke: https://github.com/publicsuffix/list/pull/1095
+mircloud.ru
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jelastic.regruhosting.ru
+		Oke: https://github.com/publicsuffix/list/pull/1063
+enscaled.sg
+		Oke: https://github.com/publicsuffix/list/pull/1095
+jele.site
+		Oke: https://github.com/publicsuffix/list/pull/1063
+jelastic.team
+		Oke: https://github.com/publicsuffix/list/pull/1063
+j.layershift.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/1023
+phx.enscaled.us
+		Oke: https://github.com/publicsuffix/list/pull/1095
+mircloud.us
+		Oke: https://github.com/publicsuffix/list/pull/1095
+myjino.ru
+		Oke: https://github.com/publicsuffix/list/pull/512
+hosting.myjino.ru
+		Oke: https://github.com/publicsuffix/list/pull/512
+landing.myjino.ru
+		Oke: https://github.com/publicsuffix/list/pull/512
+spectrum.myjino.ru
+		Oke: https://github.com/publicsuffix/list/pull/512
+vps.myjino.ru
+		Oke: https://github.com/publicsuffix/list/pull/512
+triton.zone
+		Oke: https://github.com/publicsuffix/list/pull/266
+cns.joyent.com
+		Oke: https://github.com/publicsuffix/list/pull/266
+js.org
+		Oke: https://github.com/publicsuffix/list/pull/264
+kaas.gg
+		Oke: https://github.com/publicsuffix/list/pull/801
+khplay.nl
+		Oke: https://github.com/publicsuffix/list/pull/801
+keymachine.de
+		Oke: https://github.com/publicsuffix/list/pull/310
+kinghost.net
+		Oke: https://github.com/publicsuffix/list/pull/827
+uni5.net
+		Oke: https://github.com/publicsuffix/list/pull/827
+knightpoint.systems
+		==Fail==
+oya.to
+		Oke: https://github.com/publicsuffix/list/pull/908
+co.krd
+		==Fail==
+edu.krd
+		==Fail==
+git-repos.de
+		Oke: https://github.com/publicsuffix/list/pull/455
+lcube-server.de
+		Oke: https://github.com/publicsuffix/list/pull/455
+svn-repos.de
+		Oke: https://github.com/publicsuffix/list/pull/455
+leadpages.co
+		Oke: https://github.com/publicsuffix/list/pull/731
+lpages.co
+		Oke: https://github.com/publicsuffix/list/pull/731
+lpusercontent.com
+		Oke: https://github.com/publicsuffix/list/pull/731
+lelux.site
+		Oke: https://github.com/publicsuffix/list/pull/849
+co.business
+		==Fail==
+co.education
+		==Fail==
+co.events
+		==Fail==
+co.financial
+		==Fail==
+co.network
+		==Fail==
+co.place
+		==Fail==
+co.technology
+		==Fail==
+app.lmpm.com
+		==Fail==
+linkyard.cloud
+		Oke: https://github.com/publicsuffix/list/pull/573
+linkyard-cloud.ch
+		Oke: https://github.com/publicsuffix/list/pull/573
+members.linode.com
+		Oke: https://github.com/publicsuffix/list/pull/1026
+nodebalancer.linode.com
+		Oke: https://github.com/publicsuffix/list/pull/1026
+linodeobjects.com
+		Oke: https://github.com/publicsuffix/list/pull/1026
+we.bs
+		Oke: https://github.com/publicsuffix/list/pull/452
+localzone.xyz
+		Oke: https://github.com/publicsuffix/list/pull/915
+loginline.app
+		Oke: https://github.com/publicsuffix/list/pull/790
+loginline.dev
+		Oke: https://github.com/publicsuffix/list/pull/790
+loginline.io
+		Oke: https://github.com/publicsuffix/list/pull/790
+loginline.services
+		==Fail==
+loginline.site
+		Oke: https://github.com/publicsuffix/list/pull/790
+krasnik.pl
+		Oke: https://github.com/publicsuffix/list/pull/670
+leczna.pl
+		Oke: https://github.com/publicsuffix/list/pull/670
+lubartow.pl
+		Oke: https://github.com/publicsuffix/list/pull/670
+lublin.pl
+		Oke: https://github.com/publicsuffix/list/pull/670
+poniatowa.pl
+		Oke: https://github.com/publicsuffix/list/pull/670
+swidnik.pl
+		Oke: https://github.com/publicsuffix/list/pull/670
+glug.org.uk
+		Oke: https://github.com/publicsuffix/list/pull/514
+lug.org.uk
+		Oke: https://github.com/publicsuffix/list/pull/514
+lugs.org.uk
+		Oke: https://github.com/publicsuffix/list/pull/514
+barsy.bg
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsyonline.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsycenter.com
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsyonline.com
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.club
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.de
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.eu
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.in
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.info
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.io
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.me
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.menu
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.mobi
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.net
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.online
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.org
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.pro
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.pub
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.shop
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.site
+		Oke: https://github.com/publicsuffix/list/pull/596
+barsy.support
+		Oke: https://github.com/publicsuffix/list/pull/439
+barsy.uk
+		Oke: https://github.com/publicsuffix/list/pull/596
+magentosite.cloud
+		Oke: https://github.com/publicsuffix/list/pull/224
+mayfirst.info
+		Oke: https://github.com/publicsuffix/list/pull/635
+mayfirst.org
+		Oke: https://github.com/publicsuffix/list/pull/635
+hb.cldmail.ru
+		Oke: https://github.com/publicsuffix/list/pull/421
+mcpe.me
+		Oke: https://github.com/publicsuffix/list/pull/1080
+mcdir.ru
+		Oke: https://github.com/publicsuffix/list/pull/1051
+vps.mcdir.ru
+		Oke: https://github.com/publicsuffix/list/pull/1051
+miniserver.com
+		==Fail==
+memset.net
+		==Fail==
+cloud.metacentrum.cz
+		Oke: https://github.com/publicsuffix/list/pull/1076
+custom.metacentrum.cz
+		Oke: https://github.com/publicsuffix/list/pull/438
+flt.cloud.muni.cz
+		Oke: https://github.com/publicsuffix/list/pull/622
+usr.cloud.muni.cz
+		Oke: https://github.com/publicsuffix/list/pull/622
+meteorapp.com
+		Oke: https://github.com/publicsuffix/list/pull/238
+eu.meteorapp.com
+		Oke: https://github.com/publicsuffix/list/pull/238
+co.pl
+		==Fail==
+azurecontainer.io
+		Oke: https://github.com/publicsuffix/list/pull/930
+azurewebsites.net
+		==Fail==
+azure-mobile.net
+		==Fail==
+cloudapp.net
+		==Fail==
+azurestaticapps.net
+		Oke: https://github.com/publicsuffix/list/pull/1133
+centralus.azurestaticapps.net
+		Oke: https://github.com/publicsuffix/list/pull/1133
+eastasia.azurestaticapps.net
+		Oke: https://github.com/publicsuffix/list/pull/1133
+eastus2.azurestaticapps.net
+		Oke: https://github.com/publicsuffix/list/pull/1133
+westeurope.azurestaticapps.net
+		Oke: https://github.com/publicsuffix/list/pull/1133
+westus2.azurestaticapps.net
+		Oke: https://github.com/publicsuffix/list/pull/1133
+csx.cc
+		Oke: https://github.com/publicsuffix/list/pull/1036
+forte.id
+		Oke: https://github.com/publicsuffix/list/pull/1081
+mozilla-iot.org
+		Oke: https://github.com/publicsuffix/list/pull/605
+bmoattachments.org
+		==Fail==
+net.ru
+		Oke: https://github.com/publicsuffix/list/pull/412
+org.ru
+		Oke: https://github.com/publicsuffix/list/pull/412
+pp.ru
+		Oke: https://github.com/publicsuffix/list/pull/412
+hostedpi.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+customer.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+lynx.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+ocelot.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+onza.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+sphinx.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+vs.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+x.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+yali.mythic-beasts.com
+		Oke: https://github.com/publicsuffix/list/pull/1075
+cust.retrosnub.co.uk
+		==Fail==
+ui.nabu.casa
+		Oke: https://github.com/publicsuffix/list/pull/781
+pony.club
+		Oke: https://github.com/publicsuffix/list/pull/543
+of.fashion
+		Oke: https://github.com/publicsuffix/list/pull/543
+in.london
+		Oke: https://github.com/publicsuffix/list/pull/543
+of.london
+		Oke: https://github.com/publicsuffix/list/pull/543
+from.marketing
+		Oke: https://github.com/publicsuffix/list/pull/1146
+with.marketing
+		Oke: https://github.com/publicsuffix/list/pull/1146
+for.men
+		Oke: https://github.com/publicsuffix/list/pull/543
+repair.men
+		Oke: https://github.com/publicsuffix/list/pull/1146
+and.mom
+		Oke: https://github.com/publicsuffix/list/pull/543
+for.mom
+		Oke: https://github.com/publicsuffix/list/pull/543
+for.one
+		Oke: https://github.com/publicsuffix/list/pull/543
+under.one
+		Oke: https://github.com/publicsuffix/list/pull/1146
+for.sale
+		Oke: https://github.com/publicsuffix/list/pull/543
+that.win
+		Oke: https://github.com/publicsuffix/list/pull/1146
+from.work
+		Oke: https://github.com/publicsuffix/list/pull/1146
+to.work
+		Oke: https://github.com/publicsuffix/list/pull/543
+nctu.me
+		==Fail==
+netlify.app
+		Oke: https://github.com/publicsuffix/list/pull/1012
+4u.com
+		==Fail==
+ngrok.io
+		==Fail==
+nh-serv.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/491
+nfshost.com
+		==Fail==
+dnsking.ch
+		==Fail==
+mypi.co
+		Oke: https://github.com/publicsuffix/list/pull/560
+n4t.co
+		==Fail==
+001www.com
+		Oke: https://github.com/publicsuffix/list/pull/560
+ddnslive.com
+		Oke: https://github.com/publicsuffix/list/pull/560
+myiphost.com
+		Oke: https://github.com/publicsuffix/list/pull/560
+forumz.info
+		Oke: https://github.com/publicsuffix/list/pull/560
+16-b.it
+		Oke: https://github.com/publicsuffix/list/pull/560
+32-b.it
+		Oke: https://github.com/publicsuffix/list/pull/560
+64-b.it
+		Oke: https://github.com/publicsuffix/list/pull/560
+soundcast.me
+		Oke: https://github.com/publicsuffix/list/pull/560
+tcp4.me
+		Oke: https://github.com/publicsuffix/list/pull/560
+dnsup.net
+		Oke: https://github.com/publicsuffix/list/pull/560
+hicam.net
+		Oke: https://github.com/publicsuffix/list/pull/560
+now-dns.net
+		Oke: https://github.com/publicsuffix/list/pull/560
+ownip.net
+		Oke: https://github.com/publicsuffix/list/pull/560
+vpndns.net
+		Oke: https://github.com/publicsuffix/list/pull/560
+dynserv.org
+		Oke: https://github.com/publicsuffix/list/pull/560
+now-dns.org
+		Oke: https://github.com/publicsuffix/list/pull/560
+x443.pw
+		Oke: https://github.com/publicsuffix/list/pull/560
+now-dns.top
+		Oke: https://github.com/publicsuffix/list/pull/560
+ntdll.top
+		Oke: https://github.com/publicsuffix/list/pull/560
+freeddns.us
+		Oke: https://github.com/publicsuffix/list/pull/560
+crafting.xyz
+		==Fail==
+zapto.xyz
+		==Fail==
+nsupdate.info
+		Oke: https://github.com/publicsuffix/list/pull/93
+nerdpol.ovh
+		Oke: https://github.com/publicsuffix/list/pull/100
+blogsyte.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+brasilia.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+cable-modem.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+ciscofreak.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+collegefan.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+couchpotatofries.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+damnserver.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+ddns.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+ditchyourip.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+dnsfor.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+dnsiskinky.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+dvrcam.info
+		Oke: https://github.com/publicsuffix/list/pull/64
+dynns.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+eating-organic.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+fantasyleague.cc
+		Oke: https://github.com/publicsuffix/list/pull/64
+geekgalaxy.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+golffan.us
+		Oke: https://github.com/publicsuffix/list/pull/64
+health-carereform.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+homesecuritymac.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+homesecuritypc.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+hopto.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+ilovecollege.info
+		Oke: https://github.com/publicsuffix/list/pull/64
+loginto.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+mlbfan.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+mmafan.biz
+		Oke: https://github.com/publicsuffix/list/pull/64
+myactivedirectory.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+mydissent.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+myeffect.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+mymediapc.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+mypsx.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+mysecuritycamera.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+mysecuritycamera.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+mysecuritycamera.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+net-freaks.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+nflfan.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+nhlfan.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+no-ip.ca
+		Oke: https://github.com/publicsuffix/list/pull/64
+no-ip.co.uk
+		Oke: https://github.com/publicsuffix/list/pull/64
+no-ip.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+noip.us
+		Oke: https://github.com/publicsuffix/list/pull/64
+onthewifi.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+pgafan.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+point2this.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+pointto.us
+		Oke: https://github.com/publicsuffix/list/pull/64
+privatizehealthinsurance.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+quicksytes.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+read-books.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+securitytactics.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+serveexchange.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+servehumour.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+servep2p.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+servesarcasm.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+stufftoread.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+ufcfan.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+unusualperson.com
+		==Fail==
+workisboring.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+3utilities.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+bounceme.net
+		==Fail==
+ddns.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+ddnsking.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+gotdns.ch
+		Oke: https://github.com/publicsuffix/list/pull/64
+hopto.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+myftp.biz
+		Oke: https://github.com/publicsuffix/list/pull/64
+myftp.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+myvnc.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+no-ip.biz
+		Oke: https://github.com/publicsuffix/list/pull/64
+no-ip.info
+		Oke: https://github.com/publicsuffix/list/pull/64
+no-ip.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+noip.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+redirectme.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+servebeer.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+serveblog.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+servecounterstrike.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+serveftp.com
+		==Fail==
+servegame.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+servehalflife.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+servehttp.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+serveirc.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+serveminecraft.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+servemp3.com
+		==Fail==
+servepics.com
+		==Fail==
+servequake.com
+		Oke: https://github.com/publicsuffix/list/pull/64
+sytes.net
+		Oke: https://github.com/publicsuffix/list/pull/64
+webhop.me
+		Oke: https://github.com/publicsuffix/list/pull/64
+zapto.org
+		Oke: https://github.com/publicsuffix/list/pull/64
+stage.nodeart.io
+		Oke: https://github.com/publicsuffix/list/pull/471
+nodum.co
+		==Fail==
+nodum.io
+		Oke: https://github.com/publicsuffix/list/pull/431
+pcloud.host
+		==Fail==
+nyc.mn
+		==Fail==
+nom.ae
+		==Fail==
+nom.af
+		==Fail==
+nom.ai
+		==Fail==
+nom.al
+		==Fail==
+nym.by
+		==Fail==
+nom.bz
+		==Fail==
+nym.bz
+		==Fail==
+nom.cl
+		==Fail==
+nym.ec
+		==Fail==
+nom.gd
+		==Fail==
+nom.ge
+		==Fail==
+nom.gl
+		==Fail==
+nym.gr
+		==Fail==
+nom.gt
+		==Fail==
+nym.gy
+		==Fail==
+nym.hk
+		==Fail==
+nom.hn
+		==Fail==
+nym.ie
+		==Fail==
+nom.im
+		==Fail==
+nom.ke
+		==Fail==
+nym.kz
+		==Fail==
+nym.la
+		==Fail==
+nym.lc
+		==Fail==
+nom.li
+		==Fail==
+nym.li
+		==Fail==
+nym.lt
+		==Fail==
+nym.lu
+		==Fail==
+nom.lv
+		==Fail==
+nym.me
+		==Fail==
+nom.mk
+		==Fail==
+nym.mn
+		==Fail==
+nym.mx
+		==Fail==
+nom.nu
+		==Fail==
+nym.nz
+		==Fail==
+nym.pe
+		==Fail==
+nym.pt
+		==Fail==
+nom.pw
+		==Fail==
+nom.qa
+		==Fail==
+nym.ro
+		==Fail==
+nom.rs
+		==Fail==
+nom.si
+		==Fail==
+nym.sk
+		==Fail==
+nom.st
+		==Fail==
+nym.su
+		==Fail==
+nym.sx
+		==Fail==
+nom.tj
+		==Fail==
+nym.tw
+		==Fail==
+nom.ug
+		==Fail==
+nom.uy
+		==Fail==
+nom.vc
+		==Fail==
+nom.vg
+		==Fail==
+static.observableusercontent.com
+		==Fail==
+cya.gg
+		==Fail==
+omg.lol
+		Oke: https://github.com/publicsuffix/list/pull/1090
+cloudycluster.net
+		Oke: https://github.com/publicsuffix/list/pull/656
+omniwe.site
+		==Fail==
+nid.io
+		==Fail==
+opensocial.site
+		Oke: https://github.com/publicsuffix/list/pull/1056
+opencraft.hosting
+		Oke: https://github.com/publicsuffix/list/pull/308
+operaunite.com
+		==Fail==
+skygearapp.com
+		Oke: https://github.com/publicsuffix/list/pull/892
+outsystemscloud.com
+		==Fail==
+ownprovider.com
+		==Fail==
+own.pm
+		Oke: https://github.com/publicsuffix/list/pull/544
+owo.codes
+		Oke: https://github.com/publicsuffix/list/pull/973
+ox.rs
+		==Fail==
+oy.lc
+		Oke: https://github.com/publicsuffix/list/pull/69
+pgfog.com
+		Oke: https://github.com/publicsuffix/list/pull/141
+pagefrontapp.com
+		==Fail==
+pagexl.com
+		Oke: https://github.com/publicsuffix/list/pull/1029
+bar0.net
+		Oke: https://github.com/publicsuffix/list/pull/1039
+bar1.net
+		Oke: https://github.com/publicsuffix/list/pull/1039
+bar2.net
+		Oke: https://github.com/publicsuffix/list/pull/1039
+rdv.to
+		Oke: https://github.com/publicsuffix/list/pull/1039
+art.pl
+		==Fail==
+gliwice.pl
+		==Fail==
+krakow.pl
+		==Fail==
+poznan.pl
+		==Fail==
+wroc.pl
+		==Fail==
+zakopane.pl
+		==Fail==
+pantheonsite.io
+		Oke: https://github.com/publicsuffix/list/pull/155
+gotpantheon.com
+		==Fail==
+mypep.link
+		==Fail==
+perspecta.cloud
+		Oke: https://github.com/publicsuffix/list/pull/898
+on-web.fr
+		Oke: https://github.com/publicsuffix/list/pull/349
+bc.platform.sh
+		Oke: https://github.com/publicsuffix/list/pull/1061
+ent.platform.sh
+		Oke: https://github.com/publicsuffix/list/pull/1061
+eu.platform.sh
+		Oke: https://github.com/publicsuffix/list/pull/1061
+us.platform.sh
+		Oke: https://github.com/publicsuffix/list/pull/1061
+platformsh.site
+		Oke: https://github.com/publicsuffix/list/pull/417
+platter-app.com
+		Oke: https://github.com/publicsuffix/list/pull/935
+platter-app.dev
+		Oke: https://github.com/publicsuffix/list/pull/935
+platterp.us
+		Oke: https://github.com/publicsuffix/list/pull/935
+pdns.page
+		==Fail==
+plesk.page
+		==Fail==
+pleskns.com
+		==Fail==
+dyn53.io
+		==Fail==
+co.bn
+		Oke: https://github.com/publicsuffix/list/pull/789
+xen.prgmr.com
+		==Fail==
+priv.at
+		==Fail==
+prvcy.page
+		==Fail==
+dweb.link
+		==Fail==
+protonet.io
+		==Fail==
+chirurgiens-dentistes-en-france.fr
+		Oke: https://github.com/publicsuffix/list/pull/177
+byen.site
+		Oke: https://github.com/publicsuffix/list/pull/490
+pubtls.org
+		Oke: https://github.com/publicsuffix/list/pull/839
+qoto.io
+		Oke: https://github.com/publicsuffix/list/pull/1129
+qualifioapp.com
+		Oke: https://github.com/publicsuffix/list/pull/840
+qbuser.com
+		Oke: https://github.com/publicsuffix/list/pull/943
+instantcloud.cn
+		Oke: https://github.com/publicsuffix/list/pull/696
+ras.ru
+		Oke: https://github.com/publicsuffix/list/pull/511
+qa2.com
+		==Fail==
+qcx.io
+		==Fail==
+sys.qcx.io
+		==Fail==
+dev-myqnapcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/222
+alpha-myqnapcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/222
+myqnapcloud.com
+		Oke: https://github.com/publicsuffix/list/pull/222
+quipelements.com
+		Oke: https://github.com/publicsuffix/list/pull/427
+vapor.cloud
+		Oke: https://github.com/publicsuffix/list/pull/407
+vaporcloud.io
+		Oke: https://github.com/publicsuffix/list/pull/407
+rackmaze.com
+		==Fail==
+rackmaze.net
+		==Fail==
+g.vbrplsbx.io
+		==Fail==
+on-k3s.io
+		Oke: https://github.com/publicsuffix/list/pull/922
+on-rancher.cloud
+		==Fail==
+on-rio.io
+		==Fail==
+readthedocs.io
+		Oke: https://github.com/publicsuffix/list/pull/722
+rhcloud.com
+		==Fail==
+app.render.com
+		==Fail==
+onrender.com
+		==Fail==
+repl.co
+		Oke: https://github.com/publicsuffix/list/pull/748
+repl.run
+		==Fail==
+resindevice.io
+		Oke: https://github.com/publicsuffix/list/pull/499
+devices.resinstaging.io
+		Oke: https://github.com/publicsuffix/list/pull/499
+hzc.io
+		==Fail==
+wellbeingzone.eu
+		==Fail==
+wellbeingzone.co.uk
+		==Fail==
+git-pages.rit.edu
+		Oke: https://github.com/publicsuffix/list/pull/690
+sandcats.io
+		==Fail==
+logoip.de
+		Oke: https://github.com/publicsuffix/list/pull/182
+logoip.com
+		Oke: https://github.com/publicsuffix/list/pull/182
+schokokeks.net
+		Oke: https://github.com/publicsuffix/list/pull/525
+gov.scot
+		Oke: https://github.com/publicsuffix/list/pull/904
+scrysec.com
+		==Fail==
+firewall-gateway.com
+		Oke: https://github.com/publicsuffix/list/pull/235
+firewall-gateway.de
+		Oke: https://github.com/publicsuffix/list/pull/235
+my-gateway.de
+		Oke: https://github.com/publicsuffix/list/pull/235
+my-router.de
+		Oke: https://github.com/publicsuffix/list/pull/235
+spdns.de
+		Oke: https://github.com/publicsuffix/list/pull/235
+spdns.eu
+		Oke: https://github.com/publicsuffix/list/pull/235
+firewall-gateway.net
+		Oke: https://github.com/publicsuffix/list/pull/235
+my-firewall.org
+		Oke: https://github.com/publicsuffix/list/pull/235
+myfirewall.org
+		Oke: https://github.com/publicsuffix/list/pull/235
+spdns.org
+		Oke: https://github.com/publicsuffix/list/pull/235
+seidat.net
+		Oke: https://github.com/publicsuffix/list/pull/974
+senseering.net
+		==Fail==
+biz.ua
+		==Fail==
+co.ua
+		==Fail==
+pp.ua
+		==Fail==
+shiftedit.io
+		Oke: https://github.com/publicsuffix/list/pull/302
+myshopblocks.com
+		Oke: https://github.com/publicsuffix/list/pull/197
+shopitsite.com
+		Oke: https://github.com/publicsuffix/list/pull/838
+shopware.store
+		==Fail==
+mo-siemens.io
+		Oke: https://github.com/publicsuffix/list/pull/762
+1kapp.com
+		Oke: https://github.com/publicsuffix/list/pull/121
+appchizi.com
+		Oke: https://github.com/publicsuffix/list/pull/121
+applinzi.com
+		Oke: https://github.com/publicsuffix/list/pull/121
+sinaapp.com
+		Oke: https://github.com/publicsuffix/list/pull/121
+vipsinaapp.com
+		Oke: https://github.com/publicsuffix/list/pull/121
+siteleaf.net
+		Oke: https://github.com/publicsuffix/list/pull/655
+bounty-full.com
+		Oke: https://github.com/publicsuffix/list/pull/104
+alpha.bounty-full.com
+		Oke: https://github.com/publicsuffix/list/pull/104
+beta.bounty-full.com
+		==Fail==
+small-web.org
+		Oke: https://github.com/publicsuffix/list/pull/1086
+stackhero-network.com
+		Oke: https://github.com/publicsuffix/list/pull/755
+static.land
+		Oke: https://github.com/publicsuffix/list/pull/255
+dev.static.land
+		Oke: https://github.com/publicsuffix/list/pull/255
+sites.static.land
+		Oke: https://github.com/publicsuffix/list/pull/255
+playstation-cloud.com
+		Oke: https://github.com/publicsuffix/list/pull/1006
+apps.lair.io
+		Oke: https://github.com/publicsuffix/list/pull/322
+stolos.io
+		Oke: https://github.com/publicsuffix/list/pull/322
+spacekit.io
+		==Fail==
+customer.speedpartner.de
+		Oke: https://github.com/publicsuffix/list/pull/585
+api.stdlib.com
+		Oke: https://github.com/publicsuffix/list/pull/751
+storj.farm
+		==Fail==
+utwente.io
+		Oke: https://github.com/publicsuffix/list/pull/626
+soc.srcf.net
+		Oke: https://github.com/publicsuffix/list/pull/802
+user.srcf.net
+		Oke: https://github.com/publicsuffix/list/pull/802
+temp-dns.com
+		Oke: https://github.com/publicsuffix/list/pull/462
+applicationcloud.io
+		Oke: https://github.com/publicsuffix/list/pull/698
+scapp.io
+		Oke: https://github.com/publicsuffix/list/pull/698
+s5y.io
+		Oke: https://github.com/publicsuffix/list/pull/854
+sensiosite.cloud
+		Oke: https://github.com/publicsuffix/list/pull/854
+syncloud.it
+		Oke: https://github.com/publicsuffix/list/pull/727
+diskstation.me
+		==Fail==
+dscloud.biz
+		==Fail==
+dscloud.me
+		==Fail==
+dscloud.mobi
+		==Fail==
+dsmynas.com
+		==Fail==
+dsmynas.net
+		==Fail==
+dsmynas.org
+		==Fail==
+familyds.com
+		==Fail==
+familyds.net
+		==Fail==
+familyds.org
+		==Fail==
+i234.me
+		==Fail==
+myds.me
+		==Fail==
+synology.me
+		==Fail==
+vpnplus.to
+		==Fail==
+direct.quickconnect.to
+		Oke: https://github.com/publicsuffix/list/pull/867
+taifun-dns.de
+		Oke: https://github.com/publicsuffix/list/pull/297
+gda.pl
+		==Fail==
+gdansk.pl
+		==Fail==
+gdynia.pl
+		==Fail==
+med.pl
+		==Fail==
+sopot.pl
+		==Fail==
+edugit.org
+		Oke: https://github.com/publicsuffix/list/pull/736
+telebit.app
+		Oke: https://github.com/publicsuffix/list/pull/726
+telebit.io
+		Oke: https://github.com/publicsuffix/list/pull/726
+telebit.xyz
+		Oke: https://github.com/publicsuffix/list/pull/726
+gwiddle.co.uk
+		==Fail==
+thingdustdata.com
+		Oke: https://github.com/publicsuffix/list/pull/767
+cust.dev.thingdust.io
+		Oke: https://github.com/publicsuffix/list/pull/419
+cust.disrec.thingdust.io
+		Oke: https://github.com/publicsuffix/list/pull/419
+cust.prod.thingdust.io
+		Oke: https://github.com/publicsuffix/list/pull/419
+cust.testing.thingdust.io
+		Oke: https://github.com/publicsuffix/list/pull/419
+firenet.ch
+		Oke: https://github.com/publicsuffix/list/pull/1031
+svc.firenet.ch
+		Oke: https://github.com/publicsuffix/list/pull/1031
+arvo.network
+		Oke: https://github.com/publicsuffix/list/pull/812
+azimuth.network
+		Oke: https://github.com/publicsuffix/list/pull/812
+tlon.network
+		Oke: https://github.com/publicsuffix/list/pull/1112
+bloxcms.com
+		Oke: https://github.com/publicsuffix/list/pull/137
+townnews-staging.com
+		==Fail==
+12hp.at
+		Oke: https://github.com/publicsuffix/list/pull/454
+2ix.at
+		Oke: https://github.com/publicsuffix/list/pull/454
+4lima.at
+		Oke: https://github.com/publicsuffix/list/pull/454
+lima-city.at
+		Oke: https://github.com/publicsuffix/list/pull/454
+12hp.ch
+		Oke: https://github.com/publicsuffix/list/pull/454
+2ix.ch
+		Oke: https://github.com/publicsuffix/list/pull/454
+4lima.ch
+		Oke: https://github.com/publicsuffix/list/pull/454
+lima-city.ch
+		Oke: https://github.com/publicsuffix/list/pull/454
+trafficplex.cloud
+		Oke: https://github.com/publicsuffix/list/pull/454
+de.cool
+		Oke: https://github.com/publicsuffix/list/pull/454
+12hp.de
+		Oke: https://github.com/publicsuffix/list/pull/454
+2ix.de
+		Oke: https://github.com/publicsuffix/list/pull/454
+4lima.de
+		Oke: https://github.com/publicsuffix/list/pull/454
+lima-city.de
+		Oke: https://github.com/publicsuffix/list/pull/454
+1337.pictures
+		Oke: https://github.com/publicsuffix/list/pull/454
+clan.rip
+		Oke: https://github.com/publicsuffix/list/pull/454
+lima-city.rocks
+		Oke: https://github.com/publicsuffix/list/pull/454
+webspace.rocks
+		Oke: https://github.com/publicsuffix/list/pull/454
+lima.zone
+		Oke: https://github.com/publicsuffix/list/pull/454
+transurl.be
+		Oke: https://github.com/publicsuffix/list/pull/285
+transurl.eu
+		Oke: https://github.com/publicsuffix/list/pull/285
+transurl.nl
+		Oke: https://github.com/publicsuffix/list/pull/285
+tuxfamily.org
+		Oke: https://github.com/publicsuffix/list/pull/186
+dd-dns.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+diskstation.eu
+		Oke: https://github.com/publicsuffix/list/pull/328
+diskstation.org
+		Oke: https://github.com/publicsuffix/list/pull/328
+dray-dns.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+draydns.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+dyn-vpn.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+dynvpn.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+mein-vigor.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+my-vigor.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+my-wan.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+syno-ds.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+synology-diskstation.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+synology-ds.de
+		Oke: https://github.com/publicsuffix/list/pull/328
+uber.space
+		Oke: https://github.com/publicsuffix/list/pull/432
+uberspace.de
+		Oke: https://github.com/publicsuffix/list/pull/616
+hk.com
+		==Fail==
+hk.org
+		==Fail==
+ltd.hk
+		==Fail==
+inc.hk
+		==Fail==
+virtualuser.de
+		Oke: https://github.com/publicsuffix/list/pull/600
+virtual-user.de
+		Oke: https://github.com/publicsuffix/list/pull/600
+urown.cloud
+		Oke: https://github.com/publicsuffix/list/pull/880
+dnsupdate.info
+		Oke: https://github.com/publicsuffix/list/pull/880
+lib.de.us
+		==Fail==
+2038.io
+		Oke: https://github.com/publicsuffix/list/pull/580
+vercel.app
+		==Fail==
+vercel.dev
+		==Fail==
+now.sh
+		Oke: https://github.com/publicsuffix/list/pull/1019
+router.management
+		Oke: https://github.com/publicsuffix/list/pull/96
+v-info.info
+		Oke: https://github.com/publicsuffix/list/pull/508
+voorloper.cloud
+		Oke: https://github.com/publicsuffix/list/pull/750
+neko.am
+		Oke: https://github.com/publicsuffix/list/pull/1014
+nyaa.am
+		Oke: https://github.com/publicsuffix/list/pull/1014
+be.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+cat.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+es.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+eu.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+gg.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+mc.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+us.ax
+		Oke: https://github.com/publicsuffix/list/pull/1014
+xy.ax
+		==Fail==
+nl.ci
+		==Fail==
+xx.gl
+		Oke: https://github.com/publicsuffix/list/pull/1014
+app.gp
+		==Fail==
+blog.gt
+		==Fail==
+de.gt
+		==Fail==
+to.gt
+		==Fail==
+be.gy
+		Oke: https://github.com/publicsuffix/list/pull/1014
+cc.hn
+		Oke: https://github.com/publicsuffix/list/pull/1014
+blog.kg
+		Oke: https://github.com/publicsuffix/list/pull/1014
+io.kg
+		==Fail==
+jp.kg
+		Oke: https://github.com/publicsuffix/list/pull/1014
+tv.kg
+		Oke: https://github.com/publicsuffix/list/pull/1014
+uk.kg
+		Oke: https://github.com/publicsuffix/list/pull/1014
+us.kg
+		Oke: https://github.com/publicsuffix/list/pull/1014
+de.ls
+		==Fail==
+at.md
+		Oke: https://github.com/publicsuffix/list/pull/1014
+de.md
+		Oke: https://github.com/publicsuffix/list/pull/1014
+jp.md
+		Oke: https://github.com/publicsuffix/list/pull/1014
+to.md
+		Oke: https://github.com/publicsuffix/list/pull/1014
+uwu.nu
+		Oke: https://github.com/publicsuffix/list/pull/1014
+indie.porn
+		==Fail==
+vxl.sh
+		Oke: https://github.com/publicsuffix/list/pull/1014
+ch.tc
+		==Fail==
+me.tc
+		==Fail==
+we.tc
+		==Fail==
+nyan.to
+		==Fail==
+at.vg
+		Oke: https://github.com/publicsuffix/list/pull/1014
+blog.vu
+		Oke: https://github.com/publicsuffix/list/pull/1014
+dev.vu
+		Oke: https://github.com/publicsuffix/list/pull/1014
+me.vu
+		Oke: https://github.com/publicsuffix/list/pull/1014
+v.ua
+		==Fail==
+wafflecell.com
+		Oke: https://github.com/publicsuffix/list/pull/805
+idnblogger.com
+		Oke: https://github.com/publicsuffix/list/pull/1111
+indowapblog.com
+		Oke: https://github.com/publicsuffix/list/pull/1111
+bloghp.id
+		==Fail==
+wblog.id
+		Oke: https://github.com/publicsuffix/list/pull/1111
+wbq.me
+		Oke: https://github.com/publicsuffix/list/pull/1111
+fastblog.net
+		Oke: https://github.com/publicsuffix/list/pull/1111
+webhare.dev
+		Oke: https://github.com/publicsuffix/list/pull/847
+wedeploy.io
+		==Fail==
+wedeploy.me
+		==Fail==
+wedeploy.sh
+		==Fail==
+remotewd.com
+		Oke: https://github.com/publicsuffix/list/pull/375
+pages.wiardweb.com
+		Oke: https://github.com/publicsuffix/list/pull/1035
+wmflabs.org
+		==Fail==
+toolforge.org
+		==Fail==
+wmcloud.org
+		==Fail==
+panel.gg
+		==Fail==
+daemon.panel.gg
+		==Fail==
+myforum.community
+		Oke: https://github.com/publicsuffix/list/pull/947
+community-pro.de
+		Oke: https://github.com/publicsuffix/list/pull/947
+diskussionsbereich.de
+		Oke: https://github.com/publicsuffix/list/pull/947
+community-pro.net
+		Oke: https://github.com/publicsuffix/list/pull/947
+meinforum.net
+		Oke: https://github.com/publicsuffix/list/pull/947
+cn.vu
+		==Fail==
+half.host
+		Oke: https://github.com/publicsuffix/list/pull/571
+xnbay.com
+		Oke: https://github.com/publicsuffix/list/pull/506
+u2.xnbay.com
+		Oke: https://github.com/publicsuffix/list/pull/506
+u2-local.xnbay.com
+		Oke: https://github.com/publicsuffix/list/pull/506
+cistron.nl
+		Oke: https://github.com/publicsuffix/list/pull/457
+demon.nl
+		Oke: https://github.com/publicsuffix/list/pull/457
+xs4all.space
+		Oke: https://github.com/publicsuffix/list/pull/397
+yandexcloud.net
+		Oke: https://github.com/publicsuffix/list/pull/850
+storage.yandexcloud.net
+		Oke: https://github.com/publicsuffix/list/pull/850
+website.yandexcloud.net
+		Oke: https://github.com/publicsuffix/list/pull/850
+official.academy
+		Oke: https://github.com/publicsuffix/list/pull/539
+yolasite.com
+		==Fail==
+ybo.faith
+		==Fail==
+yombo.me
+		==Fail==
+homelink.one
+		==Fail==
+ybo.party
+		==Fail==
+ybo.review
+		==Fail==
+ybo.science
+		==Fail==
+ybo.trade
+		==Fail==
+nohost.me
+		Oke: https://github.com/publicsuffix/list/pull/615
+noho.st
+		Oke: https://github.com/publicsuffix/list/pull/615
+za.net
+		==Fail==
+za.org
+		==Fail==
+bss.design
+		Oke: https://github.com/publicsuffix/list/pull/685
+basicserver.io
+		Oke: https://github.com/publicsuffix/list/pull/817
+virtualserver.io
+		Oke: https://github.com/publicsuffix/list/pull/817
+enterprisecloud.nu
+		Oke: https://github.com/publicsuffix/list/pull/817
+mintere.site
+		Oke: https://github.com/publicsuffix/list/pull/993
+cx.ua
+		Oke: https://github.com/publicsuffix/list/pull/1066
+wpenginepowered.com
+		==Fail==
+js.wpenginepowered.com
+		==Fail==
+impertrixcdn.com
+		Oke: https://github.com/publicsuffix/list/pull/1060
+impertrix.com
+		Oke: https://github.com/publicsuffix/list/pull/1060
+gsj.bz
+		==Fail==
